@@ -1,0 +1,10 @@
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\bin\Debug\Ermolaev_Danila_382003_3_lab1.exe.config
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\bin\Debug\Ermolaev_Danila_382003_3_lab1.exe
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\bin\Debug\Ermolaev_Danila_382003_3_lab1.pdb
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.csproj.AssemblyReference.cache
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.Form1.resources
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.Properties.Resources.resources
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.csproj.GenerateResource.cache
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.csproj.CoreCompileInputs.cache
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.exe
+C:\Users\ermol\source\repos\Ermolaev_Danila_382003_3_lab1\obj\Debug\Ermolaev_Danila_382003_3_lab1.pdb
